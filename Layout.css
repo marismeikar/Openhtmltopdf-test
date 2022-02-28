@@ -1,0 +1,40 @@
+﻿@font-face {
+    font-family: "SEB";
+    src: url(font/SEBSansSerif-Regular.woff2);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SEBbold";
+    src: url(font/SEBSansSerif-Bold.woff);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OpenSans";
+    src: url(font/OpenSansCondensed-Light.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OpenSans_ttf";
+    src: url(font/SEBSansSerif-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.img-SEBlogo {
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.test {
+    font-family: "OpenSans_ttf";
+    font-weight: normal;
+    font-style: normal;
+}
